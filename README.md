@@ -36,8 +36,6 @@ digit-recognition-game/
 ├── app.py                 # Streamlit application
 ├── train_model.py         # CNN model training script
 ├── model.h5               # Trained model
-├── requirements.txt       # Project dependencies
-├── README.md              # Project documentation
 └── venv/                  # Virtual environment (optional)
 ```
 
